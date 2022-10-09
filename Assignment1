@@ -1,0 +1,194 @@
+<!DOCTYPE html>
+<html lang="en">
+<title>Rose Garden</title>
+<link rel="stylesheet" href="./CSS/shared.css">
+<link rel="stylesheet" href="./CSS/animations.css">
+</head>
+<body>
+<div class="wrapp">
+   <div class="menu-contanier">
+        <ul class="menu">
+            <a href="#home"><li>Home</li></a>
+            <a href="#gallery"><li>Gallery</li></a>
+            <a href="#contact"><li>Reservation</li></a>
+</ul>
+</div>
+</div>
+<div id="home">
+    <div class="container">
+        <div class="text-center">
+            <span class="head-main">
+            The Space Station
+            </span>
+        </div>
+    </div>
+</div>
+<section id="gallery">
+    <div class="container">
+        <h1>
+            Gallery
+        </h1>
+        <div class="[]ex container">
+<div class="photo-container">
+    <div class="photo">
+    <img src="../Images/thumbnail_1.jpg" alt="">
+<div class="photo-overlay"></div>
+</div>
+<h3>Click to Enlarge</h3>
+<p>We have several space launches daily, book your flight today!</p>
+
+</div>
+        </div>
+    </div>
+    <div class="photo-container">
+        <div class="photo">
+        <img src="../Images/thumbnail_2.jpg" alt="">
+    <div class="photo-overlay"></div>
+    </div>
+    <h3>Click to Enlarge</h3>
+    <p>We have several space launches daily, book your flight today!</p>
+    
+    </div>
+            </div>
+        </div>
+
+        <div class="photo-container">
+            <div class="photo">
+            <img src="../Images/thumbnail_3.jpg" alt="">
+        <div class="photo-overlay"></div>
+        </div>
+        <h3>Click to Enlarge</h3>
+        <p>We have several space launches daily, book your flight today!</p>
+        
+        </div>
+                </div>
+            </div>
+
+            <div class="photo-container">
+                <div class="photo">
+                <img src="../Images/thumbnail_4.jpg" alt="">
+            <div class="photo-overlay"></div>
+            </div>
+            <h3>Click to Enlarge</h3>
+            <p>We have several space launches daily, book your flight today!</p>
+            
+            </div>
+                    </div>
+                </div>
+
+                <div class="photo-container">
+                    <div class="photo">
+                    <img src="../Images/thumbnail_5.jpg" alt="">
+                <div class="photo-overlay"></div>
+                </div>
+                <h3>Click to Enlarge</h3>
+                <p>We have several space launches daily, book your flight today!</p>
+                
+                </div>
+                        </div>
+                    </div>
+
+                    <div class="photo-container">
+                        <div class="photo">
+                        <img src="../Images/thumbnail_6.jpg" alt="">
+                    <div class="photo-overlay"></div>
+                    </div>
+                    <h3>Click to Enlarge</h3>
+                    <p>We have several space launches daily, book your flight today!</p>
+                    
+                    </div>
+                            </div>
+                        </div>
+
+                        <div class="photo-container">
+                            <div class="photo">
+                            <img src="../Images/thumbnail_7.jpg" alt="">
+                        <div class="photo-overlay"></div>
+                        </div>
+                        <h3>Click to Enlarge</h3>
+                        <p>We have several space launches daily, book your flight today!</p>
+                        
+                        </div>
+                                </div>
+                            </div>
+
+                            <div class="photo-container">
+                                <div class="photo">
+                                <img src="../Images/thumbnail_8.jpg" alt="">
+                            <div class="photo-overlay"></div>
+                            </div>
+                            <h3>Click to Enlarge</h3>
+                            <p>We have several space launches daily, book your flight today!</p>
+                            
+                            </div>
+                                    </div>
+                                </div>
+
+
+                                <div class="photo-container">
+                                    <div class="photo">
+                                    <img src="../Images/thumbnail_9.jpg" alt="">
+                                <div class="photo-overlay"></div>
+                                </div>
+                                <h3>Click to Enlarge</h3>
+                                <p>We have several space launches daily, book your flight today!</p>
+                                
+                                </div>
+                                        </div>
+                                    </div>
+
+
+</section>
+<setion id="contact">
+    <div class="container">
+        <div class="heading-padding">
+            <h1 class="heading-padding">Reservation</h1>
+            <div class="reservation">
+<h2>
+    <span>
+        Your adventure is just around the moon
+    </span>
+    <br>Reserve your flight today!
+</h2>
+        <p class="rsvp-text"> 
+Please provide us with your contact information.
+        </p>    
+        <div class="form-rsvp">
+            <form action="" method="post">
+<input class="rvsp" type="text" value="" placeholder="First Name">
+<input class="rvsp" type="text" value="" placeholder="Last Name">
+<input class="rvsp" type="text" value="" placeholder="Email Address">
+<input class="rvsp" type="text" value="" placeholder="Phone Number">
+<div class="form-spacer">
+    <label class="terms">
+        Terms and Conditions
+    </label>
+</div>
+<div class="submit">
+<input type="submit" value="submit">
+</div>
+</form>
+ </div>
+    </div>
+        </div>
+    </div>>
+ <div id="footer">
+    www.spcaces.com &nbsp;/&nbsp;&copy;2022
+ </div>
+
+
+
+
+</body>
+
+
+
+
+
+
+
+
+
+
+
+</html>
